@@ -25,6 +25,7 @@ public class Main {
         input.close();
     }
 
+    ///this is first commit
     // Function to calculate BMI
     public static double calculateBMI(double weight, double height) {
         return weight / (height * height);
